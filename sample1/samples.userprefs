@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActionBar/NavigationDrawerFragment.cs">
+    <Files>
+      <File FileName="ActionBar/NavigationDrawerCallbacks.cs" Line="1" Column="1" />
+      <File FileName="ActionBar/NavigationDrawerFragment.cs" Line="1" Column="1" />
+      <File FileName="ActionBar/PlaceholderFragment.cs" Line="1" Column="1" />
+      <File FileName="ActionBar/Model/CustomActionBarDrawerToggle.cs" Line="26" Column="5" />
+      <File FileName="ActionBar/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="ActionBar/Properties/AssemblyInfo.cs" Line="29" Column="1" />
+      <File FileName="ActionBar/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ActionBarProto AndroidDeviceId-Debug="ff151e1e" MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>

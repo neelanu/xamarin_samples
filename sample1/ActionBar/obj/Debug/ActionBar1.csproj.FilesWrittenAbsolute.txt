@@ -1,0 +1,4 @@
+/Volumes/workspace/insightly_mobile/ActionBar/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Volumes/workspace/insightly_mobile/ActionBar/obj/Debug/ActionBar.dll
+/Volumes/workspace/insightly_mobile/ActionBar/obj/Debug/ActionBar.dll.mdb
+/Volumes/workspace/insightly_mobile/ActionBar/bin/Debug/Xamarin.Android.Support.v4.dll
